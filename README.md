@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋
+I am Abhilash S , studying at RNS Institute of Technology
 
 <!--
 **Abhilash-S-27/Abhilash-S-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
